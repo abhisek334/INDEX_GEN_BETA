@@ -1,7 +1,8 @@
 ### Full White label and Customizable Index | One of a kind
 
 * Supports Both My and Team/Shared Drives with Dark Mode.
-* Click https://bdi-generator.hashhackers.com to make yours or watch https://youtu.be/Ihk4Gm3DPvg.
+## Create Your Own 
+* https://bdi-generator.hashhackers.com
 
 ## Themes
 
